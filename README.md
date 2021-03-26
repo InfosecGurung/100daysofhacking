@@ -13,3 +13,8 @@ Documenting my 100DaysOfHacking journey, inspired by [@harshbothra_](https://twi
 - did some of the [30 things to do after installing manjaro](https://averagelinuxuser.com/manjaro-xfce-after-install/)
 - had to reconfigure SSH :/
 
+**Day 17 - Read and did some hands-on till the text-fu section of [linuxjourney.com](https://linuxjourney.com/)**
+
+**Day 18 - Linux - file descriptors; /dev/null file**
+- Read about file description from [this](https://www.bottomupcs.com/file_descriptors.xhtml) and it is from [bottomupcs](https://www.bottomupcs.com/) book ([pdf](https://www.bottomupcs.com/csbu.pdf)). This will be a great one for a #100DaysOfOS, where OS = operating system.
+- Learnt about what "2>&1" means and why it is used from Igor's [dev.to article](https://dev.to/iggredible/what-does-2-1-mean-290), Brian Storti's [article](https://www.brianstorti.com/understanding-shell-script-idiom-redirect/) and [superuser.com](https://superuser.com/questions/71428/what-does-21-do-in-command-line) (the second answer) is pretty deatiled with the basics too.
