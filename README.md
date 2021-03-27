@@ -22,4 +22,4 @@ Documenting my 100DaysOfHacking journey, inspired by [@harshbothra_](https://twi
 - Learnt about `/etc` file and about how it can be configured. `/etc/passwd` and 'etc/shadow' is some important, it seems xD
 
 **Day 19 - spent time travelling, so could only learn about user related permissions**
-- From this [Linux Security course](https://www.udemy.com/course/complete-linux-security-hardening-with-practical-examples/) course, I learnt about the `chage` cmd and about `/etc/login.def` file.
+- From this [Linux Security course](https://www.udemy.com/course/complete-linux-security-hardening-with-practical-examples/) course, I learnt about the `chage` cmd and about `/etc/login.defs` file.
