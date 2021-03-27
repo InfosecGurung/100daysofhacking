@@ -20,3 +20,6 @@ Documenting my 100DaysOfHacking journey, inspired by [@harshbothra_](https://twi
 - Learnt about what "2>&1" means and why it is used from Igor's [dev.to article](https://dev.to/iggredible/what-does-2-1-mean-290), Brian Storti's [article](https://www.brianstorti.com/understanding-shell-script-idiom-redirect/) and [superuser.com](https://superuser.com/questions/71428/what-does-21-do-in-command-line) (the second answer) is pretty deatiled with the basics too.
 - Started with this [Linux Security course](https://www.udemy.com/course/complete-linux-security-hardening-with-practical-examples/) in Udemy and completed till section 4. 
 - Learnt about `/etc` file and about how it can be configured. `/etc/passwd` and 'etc/shadow' is some important, it seems xD
+
+**Day 19 - spent time travelling, so could only learn about user related permissions**
+- From this [Linux Security course](https://www.udemy.com/course/complete-linux-security-hardening-with-practical-examples/) course, I learnt about the `chage` cmd and about `/etc/login.def` file.
